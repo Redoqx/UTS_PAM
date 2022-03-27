@@ -49,7 +49,7 @@ const HomeNavigator = ({navigation}) =>{
                 component={Lainnya} 
                 options={{
                     tabBarIcon: ({color, size}) =>(
-                        <MaterialCommunityIcons name="file-document-outline" color={"navy"} size={30} />
+                        <MaterialCommunityIcons name="view-headline" color={"navy"} size={30} />
                     )
                 }}
                 />
